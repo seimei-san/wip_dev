@@ -1,0 +1,16 @@
+.env
+cert
+# Editors
+.vscode/
+.idea/
+.DS_Store
+datafeed.id
+rsa/
+
+# Mac/OSX
+
+
+env/
+bdk.log
+**/__pycache__
+

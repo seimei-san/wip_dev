@@ -1,0 +1,15 @@
+pymongo
+python-dotenv
+flask
+bson
+openai
+beautifulsoup4
+lxml
+mysql-connector-python
+janome
+mecab-python3
+<<<<<<< HEAD
+unidic-litecd
+=======
+unidic-lite
+>>>>>>> 53d6c6a56d96ccb58f3707088e63f707e70de954
